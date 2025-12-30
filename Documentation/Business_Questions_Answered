@@ -1,0 +1,51 @@
+# Business Questions Answered
+
+This document provides summarized answers to the main business questions addressed by the Power BI dashboard using the AdventureWorks dataset.
+
+---
+
+## 1. What is the total sales performance by region?
+The analysis shows that **North America** is the top-performing region in terms of total sales, contributing the largest portion of the overall revenue.  
+This is followed by **Europe**, while the **Pacific** region generates the lowest sales among the three regions.
+
+This insight helps identify where the business is most profitable geographically.
+
+---
+
+## 2. Which product categories generate the highest revenue?
+The **Bikes** category generates the highest revenue by a significant margin compared to other categories.  
+**Components**, **Clothing**, and **Accessories** contribute smaller portions of total sales.
+
+This indicates that Bikes are the core revenue driver for the business.
+
+---
+
+## 3. How did sales change year over year?
+Sales show a clear upward trend over time, with a noticeable increase until the peak year.  
+Year-over-year analysis indicates strong growth in certain periods, followed by a decline in later years.
+
+The comparison between current year sales and last year sales highlights periods of growth and slowdown, supporting trend-based decision-making.
+
+---
+
+## 4. What are the top products by sales and growth?
+The top-performing products are mainly from the **Mountain-200** and **Road-250** product lines.  
+These products not only generate high sales but also show strong year-over-year growth percentages.
+
+This suggests consistent customer demand for premium bike products.
+
+---
+
+## 5. How much freight cost is associated with online orders?
+The majority of freight cost is associated with **online orders**, representing a large percentage of the total freight expenses.  
+Offline orders contribute a smaller portion of the overall freight cost.
+
+This insight can help the business evaluate logistics and shipping strategies for online sales.
+
+---
+
+## 6. Which countries generate the highest order quantity?
+The highest order quantities come from countries within the **Southwest**, **Canada**, and **Northwest** regions.  
+The **United Kingdom** and **France** also contribute but at lower volumes compared to the top countries.
+
+This information supports regional sales planning and inventory distribution.
