@@ -1,3 +1,4 @@
+## Business Questions
 1. What is the total sales performance by region?
 2. Which product categories generate the highest revenue?
 3. How did sales change year over year?
